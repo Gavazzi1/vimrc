@@ -31,5 +31,5 @@ imap <F2> <ESC>:w<CR>i
 nmap <F8> :wq<CR>
 imap <F8> <ESC>:wq<CR>
 
-" Set syntax for off file extensions
+" Set syntax for odd file extensions
 autocmd BufNewFile,BufRead *.cl set syntax=c

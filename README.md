@@ -4,9 +4,7 @@ Repository for keeping track of my .vimrc
 
 # Material Monokai Colorscheme
 
-https://github.com/skielbasa/vim-material-monokai  
-  
-Clone the above repo and copy the contents of the /color/ directory to ~/.vim/color
+run ./install.sh to install Material Monokai colorscheme
 
 # Ubuntu Subsystem Colors
 

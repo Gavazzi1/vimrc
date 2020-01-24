@@ -3,6 +3,12 @@ set mouse=a
 syntax on
 syntax enable
 
+" Enable filetype detection
+filetype on
+filetype plugin on
+filetype indent on
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
+
 set enc=utf-8
 set fenc=utf-8
 set termencoding=utf-8

@@ -24,13 +24,18 @@ set showmatch
 set comments=sl:/*,mb:\ *,elx:\ */
 set hlsearch
 
+" Color Scheme
 set t_Co=256
 set background=dark
 colorscheme material-monokai
 highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
 
+" Macros 
 nmap <F2> :w<CR>
 imap <F2> <ESC>:w<CR>i
 nmap <F8> :wq<CR>
 imap <F8> <ESC>:wq<CR>
+
+" Set syntax for odd file extensions
+autocmd BufNewFile,BufRead *.cl set syntax=c

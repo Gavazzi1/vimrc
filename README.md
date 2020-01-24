@@ -4,7 +4,7 @@ Repository for keeping track of my .vimrc
 
 # Material Monokai Colorscheme
 
-https://github.com/skielbasa/vim-material-monokai
+run ./install.sh to install Material Monokai colorscheme
 
 # Ubuntu Subsystem Colors
 
@@ -12,7 +12,7 @@ From left to right:
 
 38 50 56 <-- Both backgrounds  
 128 216 255  
-38 50 56  
+55 67 73  
 167 253 235  
 255 138 128  
 255 128 171  

@@ -2,11 +2,13 @@
   
 Repository for keeping track of my .vimrc
 
-# Material Monokai Colorscheme
+## Material Monokai Colorscheme
 
-run ./install.sh to install Material Monokai colorscheme
+Run `./install.sh` to install Material Monokai colorscheme.
 
-# Ubuntu Subsystem Colors
+To install the terminal theme, run `dconf load /org/gnome/terminal/ < gnome_terminal_settings.txt`
+
+## Ubuntu Subsystem Colors
 
 From left to right:
 

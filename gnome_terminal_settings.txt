@@ -1,0 +1,22 @@
+[legacy]
+theme-variant='dark'
+
+[legacy/profiles:]
+default='6e8f592b-c67c-4ed3-8080-e19af6b452cd'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '6e8f592b-c67c-4ed3-8080-e19af6b452cd']
+
+[legacy/profiles:/:6e8f592b-c67c-4ed3-8080-e19af6b452cd]
+background-color='rgb(38,50,56)'
+foreground-color='rgb(236,239,241)'
+palette=['rgb(23,20,33)', 'rgb(255,82,82)', 'rgb(92,241,158)', 'rgb(255,215,64)', 'rgb(64,196,255)', 'rgb(255,64,129)', 'rgb(100,252,218)', 'rgb(208,207,204)', 'rgb(176,190,197)', 'rgb(255,138,128)', 'rgb(185,246,202)', 'rgb(255,229,127)', 'rgb(128,216,255)', 'rgb(255,128,171)', 'rgb(167,253,235)', 'rgb(255,255,255)']
+use-theme-colors=false
+visible-name='material'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,43,54)'
+background-transparency-percent=8
+foreground-color='rgb(131,148,150)'
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(38,162,105)', 'rgb(162,115,76)', 'rgb(18,72,139)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,209,122)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-theme-colors=true
+use-theme-transparency=true
+use-transparent-background=false
